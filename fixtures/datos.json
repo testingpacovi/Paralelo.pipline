@@ -1,0 +1,6 @@
+[
+  { "nombre": "Paula1","email": "hello1@cypress.io","dir1": "Dirección uno","dir2": "Dirección dos" },
+  { "nombre": "Paula2","email": "hello2@cypress.io","dir1": "Dirección dos","dir2": "Dirección tres" },
+  { "nombre": "Paula3","email": "hello3@cypress.io","dir1": "Dirección tres","dir2": "Dirección cuatro" },
+  { "nombre": "Paula4","email": "hello4@cypress.io","dir1": "Dirección cuatro","dir2": "Dirección cinco" }
+]
